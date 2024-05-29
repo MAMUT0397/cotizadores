@@ -1,0 +1,740 @@
+[
+  {
+    "marca": "ACURA"
+  },
+  {
+    "marca": "ADLY"
+  },
+  {
+    "marca": "AG"
+  },
+  {
+    "marca": "ALFA ROMEO"
+  },
+  {
+    "marca": "ALKON"
+  },
+  {
+    "marca": "ALPHA STAR"
+  },
+  {
+    "marca": "AMERICAN MOTORCYCLE"
+  },
+  {
+    "marca": "APRILIA"
+  },
+  {
+    "marca": "ARO"
+  },
+  {
+    "marca": "ASTON MARTIN"
+  },
+  {
+    "marca": "ASTRA"
+  },
+  {
+    "marca": "ATALA"
+  },
+  {
+    "marca": "AUDI"
+  },
+  {
+    "marca": "AUTOBUSES"
+  },
+  {
+    "marca": "AUTOGAGO"
+  },
+  {
+    "marca": "AVA"
+  },
+  {
+    "marca": "BAIEC"
+  },
+  {
+    "marca": "BAJAJ"
+  },
+  {
+    "marca": "BEIBEN"
+  },
+  {
+    "marca": "BENELLI"
+  },
+  {
+    "marca": "BENTLEY"
+  },
+  {
+    "marca": "BERA"
+  },
+  {
+    "marca": "BIG_BEAR_CHOPPERS"
+  },
+  {
+    "marca": "BLUE BIRD"
+  },
+  {
+    "marca": "BMW"
+  },
+  {
+    "marca": "BOMBARDIER"
+  },
+  {
+    "marca": "BRILLIANCE"
+  },
+  {
+    "marca": "BUELL"
+  },
+  {
+    "marca": "BUGATTI"
+  },
+  {
+    "marca": "BUICK"
+  },
+  {
+    "marca": "BUSSCAR"
+  },
+  {
+    "marca": "BYD AUTOS"
+  },
+  {
+    "marca": "CADILLAC"
+  },
+  {
+    "marca": "CAGIVA"
+  },
+  {
+    "marca": "CAN_AM"
+  },
+  {
+    "marca": "CAPACITY"
+  },
+  {
+    "marca": "CHANA"
+  },
+  {
+    "marca": "CHANGAN"
+  },
+  {
+    "marca": "CHANGHE"
+  },
+  {
+    "marca": "CHERY"
+  },
+  {
+    "marca": "CHEVROLET"
+  },
+  {
+    "marca": "CHRYSLER"
+  },
+  {
+    "marca": "CHUNFENG"
+  },
+  {
+    "marca": "CITROEN"
+  },
+  {
+    "marca": "DACIA"
+  },
+  {
+    "marca": "DADDY"
+  },
+  {
+    "marca": "DADI"
+  },
+  {
+    "marca": "DAEWOO"
+  },
+  {
+    "marca": "DAF"
+  },
+  {
+    "marca": "DAIFO"
+  },
+  {
+    "marca": "DAIHATSU"
+  },
+  {
+    "marca": "DAYANG"
+  },
+  {
+    "marca": "DAYUN"
+  },
+  {
+    "marca": "DAZON"
+  },
+  {
+    "marca": "DENUTA"
+  },
+  {
+    "marca": "DERBI"
+  },
+  {
+    "marca": "DODGE"
+  },
+  {
+    "marca": "DONGFENG"
+  },
+  {
+    "marca": "DUCATI"
+  },
+  {
+    "marca": "ENCAVA"
+  },
+  {
+    "marca": "FAMI"
+  },
+  {
+    "marca": "FANABUS"
+  },
+  {
+    "marca": "FAW"
+  },
+  {
+    "marca": "FEIYING"
+  },
+  {
+    "marca": "FERRARI"
+  },
+  {
+    "marca": "FIAT"
+  },
+  {
+    "marca": "FORD"
+  },
+  {
+    "marca": "FOTON"
+  },
+  {
+    "marca": "FREIGHTLINER"
+  },
+  {
+    "marca": "GAS GAS"
+  },
+  {
+    "marca": "GEELY"
+  },
+  {
+    "marca": "GILERA"
+  },
+  {
+    "marca": "GMC"
+  },
+  {
+    "marca": "GOLDEN DRAGON"
+  },
+  {
+    "marca": "GONOW"
+  },
+  {
+    "marca": "GREAT WALL MOTORS"
+  },
+  {
+    "marca": "GUANJUN"
+  },
+  {
+    "marca": "GUZZI"
+  },
+  {
+    "marca": "HAFEI"
+  },
+  {
+    "marca": "HAIMA"
+  },
+  {
+    "marca": "HAOJIN"
+  },
+  {
+    "marca": "HAOJUE"
+  },
+  {
+    "marca": "HAOQING"
+  },
+  {
+    "marca": "HAOTIAN"
+  },
+  {
+    "marca": "HARLEY_DAVIDSON"
+  },
+  {
+    "marca": "HAWTAI"
+  },
+  {
+    "marca": "HEIBAO"
+  },
+  {
+    "marca": "HINO"
+  },
+  {
+    "marca": "HONDA"
+  },
+  {
+    "marca": "HONGXING"
+  },
+  {
+    "marca": "HUAWIN"
+  },
+  {
+    "marca": "HUMMER"
+  },
+  {
+    "marca": "HUSQVARNA"
+  },
+  {
+    "marca": "HYOSUNG"
+  },
+  {
+    "marca": "HYUNDAI"
+  },
+  {
+    "marca": "IKCO"
+  },
+  {
+    "marca": "INFINITI"
+  },
+  {
+    "marca": "INTERNATIONAL"
+  },
+  {
+    "marca": "IPV"
+  },
+  {
+    "marca": "ISUZU"
+  },
+  {
+    "marca": "IVECO"
+  },
+  {
+    "marca": "JAC"
+  },
+  {
+    "marca": "JADA"
+  },
+  {
+    "marca": "JAGUAR"
+  },
+  {
+    "marca": "JAWA"
+  },
+  {
+    "marca": "JEEP"
+  },
+  {
+    "marca": "JIALING"
+  },
+  {
+    "marca": "JIANCHE"
+  },
+  {
+    "marca": "JIANGNAN"
+  },
+  {
+    "marca": "JIEDA"
+  },
+  {
+    "marca": "JINBEI"
+  },
+  {
+    "marca": "JINCHENG"
+  },
+  {
+    "marca": "JINLUN"
+  },
+  {
+    "marca": "JMC"
+  },
+  {
+    "marca": "JONWAY"
+  },
+  {
+    "marca": "JUVE"
+  },
+  {
+    "marca": "KAMA"
+  },
+  {
+    "marca": "KAMAZ"
+  },
+  {
+    "marca": "KAWASAKI"
+  },
+  {
+    "marca": "KAWEI"
+  },
+  {
+    "marca": "KEEWAY"
+  },
+  {
+    "marca": "KENWORTH"
+  },
+  {
+    "marca": "KIA"
+  },
+  {
+    "marca": "KINROAD"
+  },
+  {
+    "marca": "KTM"
+  },
+  {
+    "marca": "KUMOTO"
+  },
+  {
+    "marca": "KYMCO"
+  },
+  {
+    "marca": "KYOTO"
+  },
+  {
+    "marca": "LADA"
+  },
+  {
+    "marca": "LAMBORGHINI"
+  },
+  {
+    "marca": "LANCIA"
+  },
+  {
+    "marca": "LAND ROVER"
+  },
+  {
+    "marca": "LANDWIND"
+  },
+  {
+    "marca": "LEXUS"
+  },
+  {
+    "marca": "LIFAN"
+  },
+  {
+    "marca": "LINCOLN"
+  },
+  {
+    "marca": "LINGYUN"
+  },
+  {
+    "marca": "LINHAI"
+  },
+  {
+    "marca": "LML"
+  },
+  {
+    "marca": "LONCIN"
+  },
+  {
+    "marca": "LOTUS"
+  },
+  {
+    "marca": "MACK"
+  },
+  {
+    "marca": "MALAGUTI"
+  },
+  {
+    "marca": "MAN"
+  },
+  {
+    "marca": "MARCOPOLO"
+  },
+  {
+    "marca": "MASERATI"
+  },
+  {
+    "marca": "MAYBACH"
+  },
+  {
+    "marca": "MAZ"
+  },
+  {
+    "marca": "MAZDA"
+  },
+  {
+    "marca": "MAZVEN"
+  },
+  {
+    "marca": "MERCEDES BENZ"
+  },
+  {
+    "marca": "MERCURY"
+  },
+  {
+    "marca": "MINI"
+  },
+  {
+    "marca": "MINSK"
+  },
+  {
+    "marca": "MITSUBISHI"
+  },
+  {
+    "marca": "MUDAN"
+  },
+  {
+    "marca": "MV AGUSTA"
+  },
+  {
+    "marca": "NANFANG"
+  },
+  {
+    "marca": "NEOBUS"
+  },
+  {
+    "marca": "NIPPONIA"
+  },
+  {
+    "marca": "NISSAN"
+  },
+  {
+    "marca": "OLDSMOBILE"
+  },
+  {
+    "marca": "OPEL"
+  },
+  {
+    "marca": "OSHKOSH"
+  },
+  {
+    "marca": "OTTAWA"
+  },
+  {
+    "marca": "PETERBILT"
+  },
+  {
+    "marca": "PEUGEOT"
+  },
+  {
+    "marca": "PGO"
+  },
+  {
+    "marca": "PIAGGIO"
+  },
+  {
+    "marca": "PIONEER"
+  },
+  {
+    "marca": "POLARIS"
+  },
+  {
+    "marca": "POLARSUN"
+  },
+  {
+    "marca": "PONTIAC"
+  },
+  {
+    "marca": "PORSCHE"
+  },
+  {
+    "marca": "POWERPLUS"
+  },
+  {
+    "marca": "QINGLING"
+  },
+  {
+    "marca": "QINGQI"
+  },
+  {
+    "marca": "RAM"
+  },
+  {
+    "marca": "REMOLQUES"
+  },
+  {
+    "marca": "RENAULT"
+  },
+  {
+    "marca": "RIO"
+  },
+  {
+    "marca": "ROFERCA"
+  },
+  {
+    "marca": "ROLLS ROYCE"
+  },
+  {
+    "marca": "ROVER"
+  },
+  {
+    "marca": "SAAB"
+  },
+  {
+    "marca": "SAIC WULING"
+  },
+  {
+    "marca": "SAIPA"
+  },
+  {
+    "marca": "SANY"
+  },
+  {
+    "marca": "SATURN"
+  },
+  {
+    "marca": "SCANIA"
+  },
+  {
+    "marca": "SCION"
+  },
+  {
+    "marca": "SEAT"
+  },
+  {
+    "marca": "SENKE"
+  },
+  {
+    "marca": "SG"
+  },
+  {
+    "marca": "SHINERAY"
+  },
+  {
+    "marca": "SHUANGHUAN AUTO"
+  },
+  {
+    "marca": "SINOTRUK"
+  },
+  {
+    "marca": "SITOM"
+  },
+  {
+    "marca": "SKODA"
+  },
+  {
+    "marca": "SKYGO"
+  },
+  {
+    "marca": "SMART"
+  },
+  {
+    "marca": "SNOW"
+  },
+  {
+    "marca": "SSANGYONG"
+  },
+  {
+    "marca": "STERLING"
+  },
+  {
+    "marca": "SUBARU"
+  },
+  {
+    "marca": "SUKIDA"
+  },
+  {
+    "marca": "SUMO"
+  },
+  {
+    "marca": "SUZUKI"
+  },
+  {
+    "marca": "SYM"
+  },
+  {
+    "marca": "TATA"
+  },
+  {
+    "marca": "TATRA"
+  },
+  {
+    "marca": "TESLA"
+  },
+  {
+    "marca": "TIUNA"
+  },
+  {
+    "marca": "TOYOTA"
+  },
+  {
+    "marca": "TRIUMPH"
+  },
+  {
+    "marca": "TVS"
+  },
+  {
+    "marca": "UAZ"
+  },
+  {
+    "marca": "UFO"
+  },
+  {
+    "marca": "UNICO"
+  },
+  {
+    "marca": "UNITED MOTORS"
+  },
+  {
+    "marca": "VENIRAUTO"
+  },
+  {
+    "marca": "VENSUN"
+  },
+  {
+    "marca": "VENTO"
+  },
+  {
+    "marca": "VERUCCI"
+  },
+  {
+    "marca": "VOLARE"
+  },
+  {
+    "marca": "VOLKSWAGEN"
+  },
+  {
+    "marca": "VOLVO"
+  },
+  {
+    "marca": "WANGYE"
+  },
+  {
+    "marca": "WULING"
+  },
+  {
+    "marca": "XCMG"
+  },
+  {
+    "marca": "YAMAHA"
+  },
+  {
+    "marca": "YAMATI"
+  },
+  {
+    "marca": "YAMOTO"
+  },
+  {
+    "marca": "YASUKI"
+  },
+  {
+    "marca": "YIBEN"
+  },
+  {
+    "marca": "YINGANG"
+  },
+  {
+    "marca": "YUEJIN"
+  },
+  {
+    "marca": "YUMBO"
+  },
+  {
+    "marca": "YUTONG"
+  },
+  {
+    "marca": "ZHONG TONG"
+  },
+  {
+    "marca": "ZHONGXING"
+  },
+  {
+    "marca": "ZNEN"
+  },
+  {
+    "marca": "ZONGZHEN"
+  },
+  {
+    "marca": "ZOTYE"
+  },
+  {
+    "marca": "ZXMCO"
+  },
+  {
+    "marca": "IKCO"
+  }
+]

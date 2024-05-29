@@ -1,0 +1,26 @@
+[
+  {
+    "SUMA ASEGURADA": 500,
+    "PRIMA": 1
+  },
+  {
+    "SUMA ASEGURADA": 1000,
+    "PRIMA": 1
+  },
+  {
+    "SUMA ASEGURADA": 1500,
+    "PRIMA": 2
+  },
+  {
+    "SUMA ASEGURADA": 2000,
+    "PRIMA": 3
+  },
+  {
+    "SUMA ASEGURADA": 2500,
+    "PRIMA": 4
+  },
+  {
+    "SUMA ASEGURADA": 15000,
+    "PRIMA": 29
+  }
+]

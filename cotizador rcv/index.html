@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <link rel="stylesheet" href="./style.css" type="text/css">
+
+</head>
+<body>
+    <div class="main-container">
+        <div class="form-container">
+            <h2>Datos del Solicitante</h2>
+            <div class="container">
+                <div class="datos">
+                    <form>
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="Nombre" placeholder="Franklin Quero">
+                        <label for="apellido">Apellido:</label>
+                        <input type="text" name="" id="apellido">
+                        <div class="form-group">
+                            <label for="sexo">Sexo:</label>
+                            <div class="radio-group">
+                                <input type="radio" name="sexo" id="masculino">
+                                <label for="masculino">Masculino</label>
+                                <input type="radio" name="sexo" id="femenino">
+                                <label for="femenino">Femenino</label>
+                            </div>
+                        </div>
+                        <label for="fenaci">Fecha de Nacimiento</label>
+                        <input type="text" id="fenaci" placeholder="16/05/204">
+                    </form>  
+                </div>
+            
+                <div class="datos">
+                    <label for="tipo">Tipo:</label>
+                    <select id="tipo">
+                        <option value=""></option>
+                        <option value="v">V</option>
+                        <option value="e">E</option>
+                        <option value="g">G</option>
+                        <option value="J">J</option>
+                    </select>
+                    <label for="Cedula/rif">Cedula/RIF:</label>
+                    <input type="text" id="Cedula/rif">
+                    <label for="ntlf">Telefono:</label>
+                    <input type="text" id="ntlf" placeholder="0424-1448532">
+                    <label for="Edad">Edad:</label>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-container">
+            <div class="container2">
+                <h2>Información del Vehículo</h2>
+                <div class="datos">
+                    <label for="marca">Marca:</label>
+                    <select id="marca">
+                        <option value=""></option>
+                        <!-- Options will be populated dynamically -->
+                    </select>
+                    <label for="modelo">Modelo:</label>
+                    <select id="modelo">
+                        <option value=""></option>
+                        <!-- Options will be populated dynamically -->
+                    </select>
+                    <label for="version">Versión:</label>
+                    <select id="version">
+                        <option value=""></option>
+                        <!-- Options will be populated dynamically -->
+                    </select>
+                    <label for="tipo-vehiculo">Tipo Vehículo:</label>
+                    <input type="text" id="tipo-vehiculo">
+                    <label for="ocupantes">Numero de ocupantes:</label>
+                    <input type="number" id="ocupantes">
+                    <label for="ano">Año:</label>
+                    <select id="ano">
+                        <option value=""></option>
+                        <!-- Add more options as needed -->
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="form-container">
+            <div class="container3">
+                <h2>Coberturas</h2>
+                <div class="datos">
+                    <label for="exceso">Exceso:</label>
+                    <select  id="exceso"></select>
+                    <label for="defensapenal">Defensa Penal:</label>
+                    <select  id="defensapenal"></select>
+                    <label for="apov">APOV</label>
+                    <select  id="apov">apov</select>
+                </div>
+               
+                <button id="cotizarCoberturas">Cotizar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/index.js"></script>
+    <script src="./js/almacenar.js"></script>
+    <script src="./js/formaDatos.js"></script>
+</body>
+</html>

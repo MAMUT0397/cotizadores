@@ -1,0 +1,126 @@
+/* Estilos para el body */
+
+html{
+    background-image: url('/imagenes/RCV.jpg');
+}
+
+body {
+    background-image: url('/imagenes/RCV.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: 
+    height:100vh;
+    margin: 0;
+    padding-top: 40px; /* Añadir un margen superior */
+    background-color: #f0f0f0; /* Color de fondo opcional */
+    border-radius: 20px; /* Bordes redondeados para el body */
+}
+
+/* Estilos para el contenedor principal */
+.main-container {
+    
+    display: flex;
+    flex-direction: column; /* Los contenedores estarán uno encima del otro */
+    align-items: center; /* Centra los contenedores horizontalmente */
+    margin: 0 20px; /* Espaciado exterior entre el body y los contenedores */
+}
+
+/* Estilos para los contenedores internos */
+.form-container {
+    
+    width: 100%;
+    max-width: 400px; /* Ancho máximo para los contenedores internos */
+    margin-bottom: 20px; /* Espacio entre los contenedores internos */
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Bordes redondeados para los contenedores internos */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #255463;
+}
+
+/* Estilos para las etiquetas */
+form label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+form label > span {
+    flex: 0 0 30%; /* Ancho del espacio para el texto de la etiqueta */
+}
+
+/* Estilos para los campos de entrada y selección */
+form input, form select {
+    flex: 1; /* El campo de entrada o selección ocupará el espacio restante */
+    padding: 8px;
+    margin-left: 10px; /* Espaciado entre el texto de la etiqueta y el campo */
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box; /* Asegura que el padding no altere el ancho total */
+}
+
+/* Estilos para el grupo de radio buttons */
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.radio-group input[type="radio"] {
+    margin: 0 5px 0 0; /* Ajuste para la alineación horizontal */
+}
+
+.radio-group label {
+    margin: 0 15px 0 0; /* Espaciado entre los radios y sus etiquetas */
+}
+
+/* Estilos para la sección "Información del Vehículo" */
+.container2 {
+    display: flex;
+    flex-direction: column; /* Coloca los elementos uno encima del otro */
+    margin-bottom: 20px; /* Espacio entre las secciones de información del vehículo */
+}
+.container {
+    display: flex;
+    flex-direction: column; /* Coloca los elementos uno encima del otro */
+    margin-bottom: 20px; /* Espacio entre las secciones de información del vehículo */
+}
+
+/* Estilos para los dropdowns */
+form select {
+    width: calc(100% - 10px); /* Calcula el ancho de los dropdowns */
+    margin: 3px 0; /* Espacio entre los dropdowns */
+}
+
+/* Ajustes generales para los campos de entrada y selección en "Información del Vehículo" */
+.container2 .datos {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Mayor separación entre los elementos del container2 */
+/* .container2 .datos label, */
+.container2 .datos select {
+    margin-bottom: 20px; /* Espaciado entre los elementos del container2 */
+    border-radius: 10px;
+}
+
+
+.container .datos {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+/* Mayor separación entre los elementos del container2 */
+/* .container2 .datos label, */
+.container .datos select {
+    margin-bottom: 20px; /* Espaciado entre los elementos del container2 */
+    border-radius: 10px;
+}
